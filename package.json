@@ -1,0 +1,1 @@
+{"name":"camera-confidence-gym-ai-coach","version":"1.0.0","private":true,"scripts":{"start":"node dev-server.js"},"engines":{"node":">=20"}}
